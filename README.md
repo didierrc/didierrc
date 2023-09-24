@@ -1,6 +1,7 @@
 <h1 align="center">Hey 👋🏽, I'm Didier</h1>
 <h4 align="center">A Software Engineer student at Univeristy of Oviedo</h4>
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=didierrc&label=Profile%20views&color=0e75b6&style=flat" alt="didierrc" /> </p>
+
 <p align="center">
   <img src="https://github.com/didierrc/didierrc/blob/main/working-hard-computer.gif" alt="spidey-work">
 </p>

@@ -6,16 +6,16 @@
   <img src="https://github.com/didierrc/didierrc/blob/main/working-hard-computer.gif" alt="spidey-work">
 </p>
 
-- 🌱 I’m currently learning **web and game development**
+- 🌱 I’m currently learning **web development and much more!!**
 
 - 📫 How to reach me **didieryamil02@gmail.com**
 
 - 🕸️ Remember: **With great power, comes great responsability**
 
 ## About me:
-<p>A 20 yo from the vibrant land of Peru 🇵🇪 🦙. Currently in my third year of Software Engineering. I’m a curious and passionate student, dedicated to soaking up everything about software development.
+<p>A 20 yo from Peru 🇵🇪 🦙. Currently in my third year of Software Engineering. I’m a curious and passionate student, dedicated to learning everything about software development.
 
-My heart beats for various facets of this world: AI, Web, Mobile, and Game development. In every project, I invest not just time, but a piece of myself, striving to create with excellence.
+My heart beats for various facets of this world: AI, Web, Mobile, Game development, and more!!. In every project, I invest not just time, but a piece of myself, striving to create with excellence.
 
 Thank YOU for landing on this repo, I hope you find it interesting 😃.
 </p>

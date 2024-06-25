@@ -27,7 +27,18 @@ Thank YOU for landing on this repo, I hope you find it interesting 😃.
 </p>
 
 ## Languages and Tools:
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-c%2B%2B.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-c-sharp-logo.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-css3.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-html-5.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-java.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-oracle.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-python.svg" alt="python" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-c-sharp-logo.svg" alt="csharp" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-css3.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-html-5.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/js/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-javascript.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-nodejs.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-java.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-spring-boot.svg" alt="springboot" width="40" height="40"/> </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-oracle.svg" alt="oracle db" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-mongo-db-64.png" alt="mongo db" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-python.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/didierrc/didierrc/blob/main/icons8-unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
 ## Github Analytics:
 
